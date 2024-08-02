@@ -1,0 +1,25 @@
+.itemName {
+  width: 100%;
+  font-style: oblique;
+}
+.itemRemove {
+  margin-top: 6px;
+  float: right;
+  font-size: medium;
+  color: white;
+  background: #f7ca18;
+  font-weight: 900;
+  border: 0px;
+  font-family: monospace;
+  text-align: center;
+  border-radius: 3px;
+  cursor: grabbing;
+}
+
+.line {
+  border: 1px solid #767272;
+}
+
+.completed{
+  text-decoration: line-through;
+}

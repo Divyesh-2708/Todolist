@@ -1,0 +1,24 @@
+.TodoForm {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  margin-top: 50px;
+  box-shadow: 1px 1px 8px  0.5px black;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+
+.TodoContainer{
+    display: flex;
+}
+
+.TodoInput{
+  width: 100%;
+  border: 0PX;
+}
+.TodoInput:focus{
+  outline:none;
+}

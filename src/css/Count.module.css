@@ -1,0 +1,13 @@
+.div{
+    width: 100%;
+    position: fixed;
+    bottom: 0%;
+    padding: 10px;
+    background: #ffc107;
+    display: flexbox;
+    text-align: center;
+}
+
+.span{
+    margin: 50px;
+}
